@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode settings (optional)
+.vscode/
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Results and figures
+/results/
+
+# Logs (if any)
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Backup files
+*~
+*.bak
+*.swp
+*.tmp

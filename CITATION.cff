@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Cognitive Distinguishability and Quantum Observer Simulation — A Phase Transition Perspective"
+authors:
+  - family-names: Khomyakov
+    given-names: Vladimir
+date-released: 2025-06-01
+doi: 10.5281/zenodo.15571107
+url: https://doi.org/10.5281/zenodo.15571107
+repository: https://github.com/Khomyakov-Vladimir/quantum_observer_simulator
+license: MIT
+keywords:
+  - cognitive observer
+  - quantum measurement
+  - phase transition
+  - subjective physics
+  - cognitive entropy
+  - distinguishability
+  - decoherence
+  - simulation
+version: "1.0.0"
+type: software
