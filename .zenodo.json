@@ -1,0 +1,37 @@
+{
+  "title": "Cognitive Distinguishability and Quantum Observer Simulation — A Phase Transition Perspective",
+  "upload_type": "software",
+  "description": "Simulation and analysis of a cognitive phase transition in quantum observer perception. Based on the Renkel experiment and categorical quantum models.",
+  "creators": [
+    {
+      "name": "Khomyakov, Vladimir"
+    }
+  ],
+  "keywords": [
+    "subjective quantum mechanics",
+    "observer collapse",
+    "quantum measurement",
+    "categorical quantum mechanics",
+    "decoherence",
+    "noisy functors",
+    "Renkel experiment",
+    "functorial observer model",
+    "cognitive distinguishability",
+    "dimensional reduction"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2025-06-01",
+  "related_identifiers": [
+    {
+      "relation": "isIdenticalTo",
+      "identifier": "https://doi.org/10.5281/zenodo.15571107",
+      "scheme": "doi"
+    },
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/Khomyakov-Vladimir/quantum_observer_simulator",
+      "scheme": "url"
+    }
+  ]
+}
