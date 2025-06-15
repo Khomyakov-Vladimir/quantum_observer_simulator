@@ -23,7 +23,7 @@ Both scripts generate high-resolution plots and save them to the `results/` subd
 .
 ├── QuantumObserverSimulator.py
 ├── cognitive_dimension.py
-├── results/
+├── figures/
 │   ├── plot_comparison.png
 │   ├── plot_comparison.pdf
 │   ├── phase_transition.png
